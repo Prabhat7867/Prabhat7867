@@ -1,12 +1,12 @@
-Hello 👋 Glad to see you here
+Hello 👋 Glad to see you here 🌹🌹🌹🌹
 
-  I’m @Prabhat
+  I’m @Prabhat😍😍
 
 
-- 👀 I’m an enthusiastic Data Scientist
-- 🌱 I’m currently learning about Data Science
+- 👀 I’m an enthusiastic and aspiring Data Scientist | Data Analyst
+- 🌱 I’m currently learning more and more about Data Science
 - 💞️ I’m looking to collaborate
-- 📫 My linked in profile is https://www.linkedin.com/in/prabhat-rajput-9b71a0199/
+- 📫 Connect me on https://www.linkedin.com/in/prabhat-rajput-9b71a0199/
 
 <!---
 Prabhat7867/Prabhat7867 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
