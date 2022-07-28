@@ -3,8 +3,8 @@ Hello 👋 Glad to see you here 🌹🌹🌹🌹
   I’m @Prabhat😎
 
 
-- 👀 I’m an enthusiastic and aspiring Data Scientist | Data Analyst
-- 🌱 I’m currently learning more and more about Data Science
+- 👀 I’m an enthusiastic and aspiring Software Engineer | Software Developer.
+- 🌱 I’m currently learning more and more to improve my skillset.
 - 💞️ I’m looking to collaborate
 - 📫 Connect me on https://www.linkedin.com/in/prabhat-rajput-9b71a0199/
 
